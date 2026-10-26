@@ -1,4 +1,4 @@
-# Задание №1: Проект Home Gym(AI-Fitness)
+# Задание №1: Проект AgentFind
 
 **Бизнес-модель:** B2C (Business-to-Consumer), B2B (Business-to-Business)
 
